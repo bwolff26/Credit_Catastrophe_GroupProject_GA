@@ -21,21 +21,20 @@ What do the next 12 months look like for lenders in the US?
 
 ## Order of Workflow:<br>
 **Data and Cleaning files:** <br>
-AD: cleaning_acd.ipynb<br>
-AD: cleaning_acd 2.ipynb<br>
-BW: data_gathering.ipynb<br>
-BW: dataexploration_i_BW.ipynb<br>
-BW: dta_ii.ipynb<br>
+AD: 01_cleaning_acd.ipynb<br>
+AD: 02_cleaning_acd 2.ipynb<br>
+BW: 03_data_gathering.ipynb<br>
+BW: 04_de_ii.ipynb<br>
 **EDA:**<br>
-AD: eda_inflation_credit_acd.ipynb<br>
-AD: eda_tax_gov_benefits_acd.ipynb<br>
-BW: eda_i.ipynb<br>
-SG: EDA_U_Shelter_Energy_Food_Wages_SG.ipynb<br>
-SG: Shap_analysis.ipynb<br>
+AD: 05_eda_inflation_credit_acd.ipynb<br>
+AD: 06_eda_tax_gov_benefits_acd.ipynb<br>
+BW: 07_eda_iii.ipynb<br>
+SG: 08_EDA_U_Shelter_Energy_Food_Wages_SG.ipynb<br>
+SG: 09_Shap_analysis.ipynb<br>
 **Modelling:**<br>
-AD: modelling_ACD.ipynb<br>
-BW: modelling_i.ipynb<br>
-BW: modelling_ii.ipynb<br>
+AD: 10_modelling_ACD.ipynb<br>
+BW: 11_modelling_i.ipynb<br>
+BW: 12_modelling_ii.ipynb<br>
 
 ## Technology Requirements:
 Maplotlib 3.7.2
