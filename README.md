@@ -178,4 +178,4 @@ Our client should expect a difficult lending environment in the coming months wi
 - [Using SHAP Values to Explain How Your Machine Learning Model Works - Towards Data Science](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)
 - [Average Household Debt - The Ascent by Motley Fool](https://www.fool.com/the-ascent/research/average-household-debt/)
 - [Consumer Debt Study - Experian](https://www.experian.com/blogs/ask-experian/research/consumer-debt-study/#:~:text=The%20total%20U.S.%20consumer%20debt,increase%20from%202021%20to%202022.)
-- [NumPy sqrt in Python - GeeksforGeeks](https://www.geeksforgeeks.org/numpy-sqrt-in-python/)
+- [NumPy sqrt in Python - GeeksforGeeks](https://www.geeksforgeeks.org/numpy-sqrt-in-python/).
